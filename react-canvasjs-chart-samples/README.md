@@ -1,3 +1,14 @@
+area charts
+box & whisker charts
+column charts
+combination charts
+dynamic charts
+financial charts
+line charts
+overview
+pie & funnel charts
+scatter & bubble charts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
